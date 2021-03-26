@@ -1,0 +1,20 @@
+<div class="col-md-4 content-item">
+	<div class="card">
+		<img class="card-img-top" src="assets/images/img-not-available.jpg">
+		<div class="card-body">
+			<a href="#">
+				<h4 class="card-title"><?php echo ; ?></h4>
+			</a>
+			<h6 class="card-text">by Creator</h6>
+			<span class="card-text old-price">
+				<span>Rp. </span>
+				<span>359999</span>
+			</span><br>
+			<span class="card-text new-price">
+				<span>Rp. </span>
+				<span class="fixed-price">79999</span>
+			</span>
+			<a href="#" class="btn btn-block">ADD TO CART</a>
+		</div>
+	</div>
+</div>
